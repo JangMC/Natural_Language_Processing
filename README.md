@@ -10,14 +10,11 @@ Pre-trained word vectors can be particularly helpful in classifying complaints, 
 
 <b><i> NLP_Learned_Vs_PreTrained_WordEmbeddings.ipynb </b></i>
 
-In the NLP_Learned_Vs_PreTrained_WordEmbeddings file different models were explored using both a learned and a pre-trained word vector (glove.6B.100d). Models included different types and numbers of layers, including:
+In the NLP_Learned_Vs_PreTrained_WordEmbeddings file different models were explored using both a learned and a pre-trained word vector (glove.6B.100d). Models included:
 
 - dense
-
 - convolutional
-
 - recurrent
-
 - gated recurrent network (GRU)
 - long short-term memory (LSTM)
 
